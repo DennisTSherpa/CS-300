@@ -6,7 +6,8 @@ The following are some questions and their respective answers that I hope will p
 
 Que 1. What was the problem you were solving in the projects for this course?
 
-Ans 1-> For Project One, I modified the pseudocode of the three milestones I had completed before. Then, I summarized all three milestones' pseudocode in the document named "Pseudocode and Runtime Analysis," where I analyzed the runtime of each respective milestone's pseudocode. For context, the three milestone documents utilized one of three data structures–vector, hash table, and binary search tree. Each milestone's pseudocode utilizes a data structure to perform three functions on a list: 1. Load file, 2. Print an alphanumeric list of the courses, 3. Print a specific course's information and its prerequisites.
+Ans 1-> For Project One, I modified the pseudocode of the three milestones I had completed before. Then, I summarized all three milestones' pseudocode in the document named "Pseudocode and Runtime Analysis," where I analyzed the runtime of each respective milestone's pseudocode. Also, provided a short essay on why I chose to base my ProjectTwo.cpp on a Binary Search Tree. 
+For context, the three milestone documents utilized one of three data structures–vector, hash table, and binary search tree. Each milestone's pseudocode utilizes a data structure to perform three functions on a list: 1. Load file, 2. Print an alphanumeric list of the courses, 3. Print a specific course's information and its prerequisites.
 
 
 Que 2. How did you approach the problem? Consider why data structures are important to understand.
